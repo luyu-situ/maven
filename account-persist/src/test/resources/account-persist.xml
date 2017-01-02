@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<account-persist>
+    <accounts>
+        <account>
+            <id>001</id>
+            <name>luyu</name>
+            <email>luyu1999@163.com</email>
+            <password>this_shoud_be_encrypted</password>
+            <activated>false</activated>
+        </account>
+    </accounts>
+</account-persist>
